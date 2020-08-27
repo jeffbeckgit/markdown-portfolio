@@ -1,0 +1,2 @@
+- IT guru since _DOS __3.6___ :smile:
+- Networking guru since _Netware __3.6___ :smile:
