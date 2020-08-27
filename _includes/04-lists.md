@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Favorite stuff
+-Fish
+  - Flounder
+  - Wahoo
+  - MahiMahi
+-Books
+  -Dune
+  -Other books
